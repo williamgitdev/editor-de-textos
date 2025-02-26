@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 namespace HelloWorld
 {
@@ -28,6 +29,16 @@ namespace HelloWorld
         }
         static void Abrir() { }
 
-        static void Editar() { }
+        static void Editar()
+        {
+            Console.Clear();
+            Console.WriteLine("Digite seu texto abaixo");
+            Console.WriteLine("------------------------");
+            string text = "";
+            while (Console.ReadKey().Key != ConsoleKey.Escape)
+            {
+
+            }
+        }
     }
 }
