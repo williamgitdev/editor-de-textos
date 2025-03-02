@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditorDeTextos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc68aa1b547e6bec4989ab67f8cb3cc8fda7a8bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aafac836b000e67704e5c738423fd80a06150c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditorDeTextos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditorDeTextos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\bin\Debug\net9.0\EditorDeTextos.exe
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\bin\Debug\net9.0\EditorDeTextos.deps.json
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\bin\Debug\net9.0\EditorDeTextos.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\bin\Debug\net9.0\EditorDeTextos.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\bin\Debug\net9.0\EditorDeTextos.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.sourcelink.json
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\refint\EditorDeTextos.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\EditorDeTextos.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-de-textos\EditorDeTextos\obj\Debug\net9.0\ref\EditorDeTextos.dll
